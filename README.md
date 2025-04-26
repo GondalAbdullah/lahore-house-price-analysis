@@ -4,13 +4,15 @@ This project follows a complete machine learning and deep learning workflow, fro
 
 
 ## Project Structure
-File | Description
-lahore_housing_prices.csv | Base dataset used for the entire project.
-1_preprocessing.ipynb | Cleaning, handling missing values, and preparing the dataset for analysis.
-2_EDA.ipynb | Exploratory Data Analysis (EDA) to understand patterns and trends.
-3_feature_engineering.ipynb | Feature engineering and feature extraction to improve model performance.
-4_model_implementation.ipynb | Implementation of multiple machine learning models and model comparison.
-5_deep_learning.ipynb | Building and training a deep learning model for price prediction.
+| File | Description |
+|:---|:---|
+| `lahore_housing_prices.csv` | Base dataset used for the entire project. |
+| `1_preprocessing.ipynb` | Cleaning, handling missing values, and preparing the dataset for analysis. |
+| `2_EDA.ipynb` | Exploratory Data Analysis (EDA) to understand patterns and trends. |
+| `3_feature_engineering.ipynb` | Feature engineering and feature extraction to improve model performance. |
+| `4_model_implementation.ipynb` | Implementation of multiple machine learning models and model comparison. |
+| `5_deep_learning.ipynb` | Building and training a deep learning model for price prediction. |
+
 
 ## Project Goals
 
